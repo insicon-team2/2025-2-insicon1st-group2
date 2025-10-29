@@ -4,6 +4,7 @@
 ```bash
 2025-2-INSICON1ST-GROUP2
 ├── data
+│   ├── brand_category_analysis.csv
 │   ├── eom_inventory_data.csv
 │   └── preprocessed
 │       ├── inventory.csv
